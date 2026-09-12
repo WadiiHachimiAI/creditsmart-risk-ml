@@ -31,7 +31,7 @@ The goal: faster, more objective, less risky credit decisions for a fintech serv
 | RMSE | 49,482 MAD |
 | **R²** | **0.533** (test) |
 
-R� of 0.53 means the model captures roughly half the variance in credit amounts — a moderate result, suggesting credit amount depends on factors beyond what's in this feature set (or a non-linear relationship a simple Linear Regression can't fully capture).
+R² of 0.53 means the model captures roughly half the variance in credit amounts — a moderate result, suggesting credit amount depends on factors beyond what's in this feature set (or a non-linear relationship a simple Linear Regression can't fully capture).
 
 ### Classification — Default Risk
 
